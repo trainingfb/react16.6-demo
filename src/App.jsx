@@ -16,7 +16,7 @@ export default class App extends Component {
         <React.Fragment>
           <NavBar />
           <Suspense fallback={<div className="text-center">Loading...</div>}>
-            <div className="container">
+            <div className="container text-center">
               <Route path="/lazy" component={() => <DemoLazy />} />
               <Route path="/memo" component={() => <DemoMemo /> } />
               <Route path="/context" component={() => <DemoContext /> } />
