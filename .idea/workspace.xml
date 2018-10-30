@@ -14,6 +14,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="DemoContext.jsx" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/context/DemoContext.jsx">
           <provider selected="true" editor-type-id="text-editor">
@@ -27,16 +36,16 @@
         <entry file="file://$PROJECT_DIR$/src/error_boundaries/DemoErrorBoundaries.jsx">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="280">
-              <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+              <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+            <state relative-caret-position="504">
+              <caret line="18" column="33" lean-forward="true" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -65,7 +74,6 @@
         <option value="$PROJECT_DIR$/src/context/components/ThemedButtonNew.jsx" />
         <option value="$PROJECT_DIR$/src/context/components/ThemedButton.jsx" />
         <option value="$PROJECT_DIR$/src/createRef/DemoCreateRef.jsx" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/getDerivedStateFromProps/components/EditForm.jsx" />
         <option value="$PROJECT_DIR$/src/getDerivedStateFromProps/data.js" />
         <option value="$PROJECT_DIR$/src/getDerivedStateFromProps/DemoGetDerivedState.jsx" />
@@ -79,6 +87,7 @@
         <option value="$PROJECT_DIR$/src/context/DemoContext.jsx" />
         <option value="$PROJECT_DIR$/src/error_boundaries/DemoErrorBoundaries.jsx" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -174,7 +183,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="packa&#9;FILE&#9;file:///Users/fabio/Documents/training/corsi-2018/react/react16.6-demo/package.json&#10;demoerro&#9;FILE&#9;file:///Users/fabio/Documents/training/corsi-2018/react/react16.6-demo/src/error_boundaries/DemoErrorBoundaries.jsx&#10;democon&#9;FILE&#9;file:///Users/fabio/Documents/training/corsi-2018/react/react16.6-demo/src/context/DemoContext.jsx&#10;memo&#9;FILE&#9;file:///Users/fabio/Documents/training/corsi-2018/react/react16.6-demo/src/memo/DemoMemo.js" />
+    <property name="SearchEverywhereHistoryKey" value="read&#9;FILE&#9;file:///Users/fabio/Documents/training/corsi-2018/react/react16.6-demo/README.md&#10;packa&#9;FILE&#9;file:///Users/fabio/Documents/training/corsi-2018/react/react16.6-demo/package.json&#10;demoerro&#9;FILE&#9;file:///Users/fabio/Documents/training/corsi-2018/react/react16.6-demo/src/error_boundaries/DemoErrorBoundaries.jsx&#10;democon&#9;FILE&#9;file:///Users/fabio/Documents/training/corsi-2018/react/react16.6-demo/src/context/DemoContext.jsx&#10;memo&#9;FILE&#9;file:///Users/fabio/Documents/training/corsi-2018/react/react16.6-demo/src/memo/DemoMemo.js" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.prettier" value="true" />
@@ -496,13 +505,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/context/DemoContext.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -513,14 +515,21 @@
     <entry file="file://$PROJECT_DIR$/src/error_boundaries/DemoErrorBoundaries.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
-          <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+        <state relative-caret-position="504">
+          <caret line="18" column="33" lean-forward="true" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
         </state>
       </provider>
     </entry>
