@@ -24,10 +24,12 @@ export default class DemoLazy extends Component {
         <div className="row">
           <div className="col" />
           <div className="col">
-            <h1>Lazy / Suspense React 16.6 demo</h1>
+            <h1>Lazy / Suspense (load components)</h1>
 
-            <button onClick={() => this.toggleVisibility('one')}>Load 1</button>
-            <button onClick={() => this.toggleVisibility('two')}>Load 2</button>
+            <div className="btn-group">
+              <button className="btn btn-outline-primary" onClick={() => this.toggleVisibility('one')}>Load 1</button>
+              <button className="btn btn-outline-primary" onClick={() => this.toggleVisibility('two')}>Load 2</button>
+            </div>
             <hr/>
             <Suspense fallback={<div>Loading</div>}>
               {one ? <Image1 /> : null}

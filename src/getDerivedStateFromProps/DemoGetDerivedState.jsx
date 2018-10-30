@@ -12,8 +12,8 @@ export default class DemoGetDerivedState extends React.Component {
     const { users } = this.state;
     return (
       <div>
-        <button onClick={this.loadList.bind(this, 'list1')}>List 1</button>
-        <button onClick={this.loadList.bind(this, 'list2')}>List 2</button>
+        <button className="btn btn-outline-primary" onClick={this.loadList.bind(this, 'list1')}>List 1</button>
+        <button className="btn btn-outline-primary" onClick={this.loadList.bind(this, 'list2')}>List 2</button>
         <List list={users} />
       </div>
     )
@@ -35,11 +35,22 @@ class List extends React.Component {
   };
 
   render() {
-    return <div>
-      filter by age:
-      <input type="number" step={5} value={this.state.age} onChange={this.onChange}/>
-      { this.state.filteredList.map(u => <ListItem key={u.id} item={u} />) }
-    </div>
+    const { age, filteredList } = this.state;
+    return <React.Fragment>
+      <div>filter by age:</div>
+      <input
+        className="form-control text-center"
+        type="number"
+        min={0}
+        max={50}
+        step={5}
+        value={age}
+        onChange={this.onChange}
+      />
+      { filteredList.map(u => <ListItem key={u.id} item={u} />) }
+      <hr/>
+      Total: {filteredList.length}
+    </React.Fragment>
   }
 }
 
