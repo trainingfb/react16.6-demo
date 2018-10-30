@@ -10,7 +10,7 @@ class DemoContext extends Component {
         <ThemedButton />
         <ThemedButtonNew />
 
-        <ThemeContext.Provider value={"red"}>
+        <ThemeContext.Provider value={"warning"}>
           <ThemedButtonNew />
           <ThemedButton />
         </ThemeContext.Provider>

@@ -3,9 +3,9 @@ import ThemeContext from './theme-context';
 
 export default class ThemedButtonNew extends Component {
   render() {
+    const cls = `btn btn-${this.context}`
     return (
-      <button
-        style={{ background: this.context}}>
+      <button className={cls}>
         Theme Button 16.6
       </button>
     );

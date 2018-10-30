@@ -6,7 +6,8 @@ export default class ThemedButton extends React.Component {
     return (
       <ThemeContext.Consumer>
         {theme => {
-          return <button style={{ background: theme}}> Theme Button 16.3</button>}
+          const cls = `btn btn-${theme}`
+          return <button className={cls}> Theme Button 16.3</button>}
         }
       </ThemeContext.Consumer>
     );
