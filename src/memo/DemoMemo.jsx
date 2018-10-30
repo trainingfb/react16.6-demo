@@ -17,11 +17,11 @@ class DemoMemo extends Component {
         <h3>{this.state.value}</h3>
         <div className="row">
           <div className="col">
-            <pre>Render always</pre>
+            <pre>no memo</pre>
             <Panel val={this.state.value} />
           </div>
           <div className="col">
-            <pre>Render when necessary (memo)</pre>
+            <pre>with memo</pre>
             <Panel2 val={this.state.value} />
           </div>
         </div>

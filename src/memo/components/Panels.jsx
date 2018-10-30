@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Panel = props => {
-  return <h1>Value: {props.val}</h1>
+  return <h1>{props.val}</h1>
 };
 export default Panel;
 

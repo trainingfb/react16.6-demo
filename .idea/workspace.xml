@@ -15,39 +15,21 @@
   <component name="FileEditorManager">
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-          <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/package.json">
+        <leaf>
+          <file leaf-file-name="ThemedButton.jsx" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/context/components/ThemedButton.jsx">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="504">
-                  <caret line="18" column="33" lean-forward="true" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+                <state relative-caret-position="112">
+                  <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="DemoGetDerivedState.jsx" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/getDerivedStateFromProps/DemoGetDerivedState.jsx">
+          <file leaf-file-name="Panels.jsx" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/memo/components/Panels.jsx">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="588">
-                  <caret line="52" column="21" lean-forward="true" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="DemoCreateRef.jsx" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/createRef/DemoCreateRef.jsx">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="756">
-                  <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="DemoLazy.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/lazy/DemoLazy.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="570">
-                  <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="57" />
+                <state relative-caret-position="99">
+                  <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
                 </state>
               </provider>
             </entry>
@@ -56,11 +38,11 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="ThemedButton.jsx" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/context/components/ThemedButton.jsx">
+          <file leaf-file-name="DemoMemo.jsx" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/memo/DemoMemo.jsx">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="364">
-                  <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+                <state relative-caret-position="498">
+                  <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
                 </state>
               </provider>
             </entry>
@@ -100,12 +82,12 @@
         <option value="$PROJECT_DIR$/src/context/components/theme-context.js" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/src/App.jsx" />
-        <option value="$PROJECT_DIR$/src/memo/DemoMemo.jsx" />
-        <option value="$PROJECT_DIR$/src/memo/components/Panels.jsx" />
         <option value="$PROJECT_DIR$/src/lazy/DemoLazy.js" />
         <option value="$PROJECT_DIR$/src/getDerivedStateFromProps/data.js" />
         <option value="$PROJECT_DIR$/src/getDerivedStateFromProps/DemoGetDerivedState.jsx" />
         <option value="$PROJECT_DIR$/src/createRef/DemoCreateRef.jsx" />
+        <option value="$PROJECT_DIR$/src/memo/components/Panels.jsx" />
+        <option value="$PROJECT_DIR$/src/memo/DemoMemo.jsx" />
       </list>
     </option>
   </component>
@@ -120,11 +102,11 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-3440" />
-    <option name="y" value="-217" />
-    <option name="width" value="2293" />
-    <option name="height" value="1417" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-5360" />
+    <option name="y" value="143" />
+    <option name="width" value="1920" />
+    <option name="height" value="1053" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -138,61 +120,6 @@
             <path>
               <item name="react16.6-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="react16.6-demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="react16.6-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="react16.6-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="react16.6-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="react16.6-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="context" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="react16.6-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="react16.6-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="context" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="react16.6-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="react16.6-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="createRef" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="react16.6-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="react16.6-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="error_boundaries" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="react16.6-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="react16.6-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="getDerivedStateFromProps" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="react16.6-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="react16.6-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lazy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="react16.6-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="react16.6-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lazy" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="react16.6-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="react16.6-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="memo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -249,17 +176,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-3440" y="-217" width="2293" height="1417" extended-state="0" />
+    <frame x="-5360" y="143" width="1920" height="1053" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="3" visible="true" weight="0.16409351" />
+      <window_info content_ui="combo" id="Project" order="3" visible="true" weight="0.19640972" />
       <window_info anchor="bottom" id="TODO" order="9" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="5" />
       <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
       <window_info id="npm" order="0" side_tool="true" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.2147806" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.29839572" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
       <window_info id="Favorites" order="1" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -481,31 +408,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="18" column="33" lean-forward="true" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/context/components/ThemedButtonNew.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
           <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/memo/components/Panels.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lazy/DemoLazy.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="57" />
         </state>
       </provider>
     </entry>
@@ -516,13 +422,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/memo/DemoMemo.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="24" column="25" lean-forward="true" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/App.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -530,23 +429,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/context/components/ThemedButton.jsx">
+    <entry file="file://$PROJECT_DIR$/src/createRef/DemoCreateRef.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+        <state relative-caret-position="376">
+          <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/getDerivedStateFromProps/DemoGetDerivedState.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="588">
-          <caret line="52" column="21" lean-forward="true" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
+          <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/createRef/DemoCreateRef.jsx">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
+        <state relative-caret-position="504">
+          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lazy/DemoLazy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/context/components/ThemedButton.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/memo/components/Panels.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/memo/DemoMemo.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
           <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
         </state>
       </provider>
