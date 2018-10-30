@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{31:function(e,n,a){"use strict";a.r(n);var t=a(1),i=a.n(t);n.default=function(){return i.a.createElement("div",null,i.a.createElement("img",{width:"200",src:"https://upload.wikimedia.org/wikipedia/commons/2/2c/NZ_Landscape_from_the_van.jpg",alt:""}))}}}]);
+//# sourceMappingURL=7.184b9125.chunk.js.map
