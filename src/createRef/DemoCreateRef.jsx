@@ -12,12 +12,12 @@ export default class DemoCreateRef extends React.Component {
       return;
     }
     alert(this.inputRef.current.value);
-    this.inputRef.current.value = ''
+    this.inputRef.current.value = '';
   };
 
   render() {
     return (
-      <div>
+      <>
         <input
           type="text"
           placeholder="write something"
@@ -26,7 +26,7 @@ export default class DemoCreateRef extends React.Component {
         />
         <hr/>
         <button className="btn btn-outline-primary" onClick={this.submit}>Submit</button>
-      </div>
+      </>
     )
   }
 }
