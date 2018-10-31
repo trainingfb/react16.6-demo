@@ -59,13 +59,15 @@ export default class Demo extends React.Component {
   render() {
     return (
       <>
-        <input type="text ref={this.inputRef} />
+        <input type="text" ref={this.inputRef} />
         <button onClick={this.submit}>Submit</button>
       </>
     )
   }
 }
 ```
+
+---
 
 ## `getDerivedStateFromProps`
 
@@ -96,6 +98,8 @@ class List extends React.Component {
 }
 ```
 
+---
+
 ## `context`
 
 ```javascript
@@ -108,7 +112,7 @@ export default React.createContext('primary');
 </ThemeContext.Provider>
 ```
 
-## `context` (React 16.3)
+#### `context` (React 16.3)
 
 ```javascript
 <ThemeContext.Consumer>
@@ -119,7 +123,7 @@ export default React.createContext('primary');
 </ThemeContext.Consumer>
 ```
 
-## `context` (React 16.6)
+#### `context` (React 16.6)
 
 ```javascript
 static contextType = ThemeContext;
@@ -128,6 +132,7 @@ const cls = `btn btn-${this.context}`;
 <button className={cls}>Save</button>
 ```
 
+---
 
 ## Error Boundaries
 
@@ -173,11 +178,5 @@ export default class ErrorBoundary extends React.Component {
     return this.props.children;
   }
 }
-```
-
-
-## `memo`
-
-```javascript
 ```
 
