@@ -14,6 +14,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="364">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="ThemedButtonNew.jsx" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/context/components/ThemedButtonNew.jsx">
           <provider selected="true" editor-type-id="text-editor">
@@ -23,11 +32,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SLIDES-CODE.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SLIDES-CODE.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SLIDES-CODE.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="446">
-              <caret line="182" lean-forward="true" selection-start-line="182" selection-end-line="182" />
+            <state relative-caret-position="110">
+              <caret line="170" column="30" lean-forward="true" selection-start-line="170" selection-start-column="30" selection-end-line="170" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -93,7 +102,6 @@
         <option value="$PROJECT_DIR$/src/error_boundaries/components/PanelWithError.jsx" />
         <option value="$PROJECT_DIR$/src/NavBar.jsx" />
         <option value="$PROJECT_DIR$/src/error_boundaries/DemoErrorBoundaries.jsx" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/context/DemoContext.jsx" />
         <option value="$PROJECT_DIR$/src/context/components/ThemedButtonNew.jsx" />
         <option value="$PROJECT_DIR$/src/context/components/ThemedButton.jsx" />
@@ -108,6 +116,7 @@
         <option value="$PROJECT_DIR$/src/getDerivedStateFromProps/DemoGetDerivedState.jsx" />
         <option value="$PROJECT_DIR$/src/createRef/DemoCreateRef.jsx" />
         <option value="$PROJECT_DIR$/SLIDES-CODE.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -210,7 +219,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="app&#9;FILE&#9;file:///Users/fabio/Documents/training/corsi-2018/react/react16.6-demo/src/App.jsx&#10;read&#9;FILE&#9;file:///Users/fabio/Documents/training/corsi-2018/react/react16.6-demo/README.md&#10;packa&#9;FILE&#9;file:///Users/fabio/Documents/training/corsi-2018/react/react16.6-demo/package.json&#10;demoerro&#9;FILE&#9;file:///Users/fabio/Documents/training/corsi-2018/react/react16.6-demo/src/error_boundaries/DemoErrorBoundaries.jsx&#10;democon&#9;FILE&#9;file:///Users/fabio/Documents/training/corsi-2018/react/react16.6-demo/src/context/DemoContext.jsx&#10;memo&#9;FILE&#9;file:///Users/fabio/Documents/training/corsi-2018/react/react16.6-demo/src/memo/DemoMemo.js" />
+    <property name="SearchEverywhereHistoryKey" value="read&#9;FILE&#9;file:///Users/fabio/Documents/training/corsi-2018/react/react16.6-demo/README.md&#10;app&#9;FILE&#9;file:///Users/fabio/Documents/training/corsi-2018/react/react16.6-demo/src/App.jsx&#10;packa&#9;FILE&#9;file:///Users/fabio/Documents/training/corsi-2018/react/react16.6-demo/package.json&#10;demoerro&#9;FILE&#9;file:///Users/fabio/Documents/training/corsi-2018/react/react16.6-demo/src/error_boundaries/DemoErrorBoundaries.jsx&#10;democon&#9;FILE&#9;file:///Users/fabio/Documents/training/corsi-2018/react/react16.6-demo/src/context/DemoContext.jsx&#10;memo&#9;FILE&#9;file:///Users/fabio/Documents/training/corsi-2018/react/react16.6-demo/src/memo/DemoMemo.js" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.prettier" value="true" />
@@ -261,14 +270,14 @@
     <frame x="-5360" y="143" width="1920" height="1053" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.19640972" />
+      <window_info content_ui="combo" id="Project" order="3" visible="true" weight="0.19640972" />
       <window_info anchor="bottom" id="TODO" order="9" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="5" />
       <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
       <window_info id="npm" order="0" side_tool="true" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.29839572" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.29839572" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
       <window_info id="Favorites" order="1" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -448,13 +457,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/getDerivedStateFromProps/data.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
@@ -565,8 +567,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SLIDES-CODE.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="446">
-          <caret line="182" lean-forward="true" selection-start-line="182" selection-end-line="182" />
+        <state relative-caret-position="110">
+          <caret line="170" column="30" lean-forward="true" selection-start-line="170" selection-start-column="30" selection-end-line="170" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>

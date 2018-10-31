@@ -8,3 +8,7 @@ This repo contains some examples to demonstrate how to use some of the new featu
 * Error Boundaries (React 16+)
 * getDerivedStateFromProps(React 16.3+)
 * CreateRef (React 16.3+)
+
+---
+
+[Online demo](http://trainingfb.github.io/react16.6-demo)
