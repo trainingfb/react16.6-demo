@@ -6,12 +6,20 @@ export default class ErrorBoundary extends React.Component {
     this.state = { hasError: false };
   }
 
+  // React 16.6 (works only in Production)
+  static getDerivedStateFromError(error) {
+    return { hasError: true };
+  }
+
+  /*
+  // React 16+ (works only in Production)
   componentDidCatch(error, info) {
     // Display fallback UI
     this.setState({ hasError: true });
     // You can also log the error to an error reporting service
     console.info('...>', error, info);
   }
+  */
 
   render() {
     if (this.state.hasError) {
