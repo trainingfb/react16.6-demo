@@ -30,9 +30,7 @@ class List extends React.Component {
     }
   }
 
-  onChange = (event) => {
-    this.setState({ age: +event.target.value})
-  };
+  onChange = (event) => this.setState({ age: +event.target.value});
 
   render() {
     const { age, filteredList } = this.state;
